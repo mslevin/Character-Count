@@ -1,0 +1,15 @@
+{
+    "name": "Textbox Character Count",
+    "version": "1.0",
+    "manifest_version": 2,
+    "homepage_url": "https://github.com/mslevin",
+    "description": "Counts the number of non-whitespace characters in textboxes and places the count above them.",
+
+    "content_scripts": [{
+        "js": ["inject.js"],
+        "matches": [
+            "http://*/*",
+            "https://*/*"
+            ]
+    }],
+}
