@@ -1,8 +1,9 @@
 Character-Count
 ===============
 
-Chrome Extension to display character counts above all text boxes on webpages. Currently only really useful for Prof. Staley's IHS-based courses.
+Chrome Extension to display character counts above all text boxes on webpages. 
 
+#####Currently _only_ works on Prof. Staley's IHS. 
 
 ##To Install:
 
