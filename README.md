@@ -15,6 +15,3 @@ License
 ######MIT License
 http://opensource.org/licenses/MIT
 
-######IDGAF License
-Do as you wish! Who am I, your mom?
-
